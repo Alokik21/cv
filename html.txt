@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>alokik</title>
+	</head>
+	<body>
+	    <TABLE><td><img src="https://5.imimg.com/data5/XH/VG/MY-9105569/cone-100-tph-stone-crusher-plant-250x250.jpg"></td>
+	    <td><h1> Alokik Soni</h1>
+	<hr size='3' color="black">
+	<em>MECHANICAL ENGINEER <BR>
+	<b><a href="https://www.lnmiit.ac.in/"> LNM INSITUTE OF INFORMATION TECHNOLOGY. </a></em></b>
+	<p>I am a business man and I am a jain boy. </p></td></TABLE>
+	<hr size="2" color="grey">
+	<h3>MY HOBBIES</h3>
+	<UL>
+	    <LI>READING</LI>
+	    <LI>WORKING</LI>
+	</UL><BR>
+	<H3>MY FAMILY</H3>
+	<OL type="I">
+	    <LI>mr sanjay soni</LI>
+	    <li>mrs anitha soni</li>
+	</OL>    
+	<hr size="4" color= "black">
+	<h3>MY SUBJECTS</h3>
+	<table BORDER="2">
+	    <thead>
+	        <th>SNO.</th>
+	        <th>Subject</th>
+	    </thead>
+	    <TR><td>1.</td>
+	    <td>ENGLISH</td>
+	   </TR>
+	    <TR><td>2.</td>
+	    <td>SCIENCE</td>
+	   </TR>
+	</table>
+	
+	
+	
+	
+	
+	
+	
+	
+	</body>
+</html>
